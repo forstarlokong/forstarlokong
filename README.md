@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @forstarlokong
+- 👋 Hi, I’m Peter Lokong
 - 👀 I’m interested in Community Building and Traveling a lot.
-- 🌱 I’m currently learning Telecommunications Engineering at The Technical University of Kenya
+- 🌱 I’m currently learning Telecommunications Engineering at The Technical University of Kenya as well as pursuing a certification on AI & ML by IBM and Salesforce.
 - 💞️ I’m looking to collaborate on all Java anad Python based projects.
 - 📫 How to reach me:
 - LinkedIn https://www.linkedin.com/in/peter-lokong-9a0698217/
